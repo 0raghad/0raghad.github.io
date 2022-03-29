@@ -4,7 +4,8 @@
   ## Goals and Motivation:
    - assist radiologists and doctors in making accurate diagnoses and treatment plans.
    - Based upon this concept, a user can take a photo and access information about brine tumors by using an application.
-  ## Dataset Exploration:    - After loading both the dataset using the TensorFlow load dataset method, the following conclusions are drawn:
+  ## Dataset Exploration:  
+   - After loading both the dataset using the TensorFlow load dataset method, the following conclusions are drawn:
    - There are 2 brain categories.
    - There are 253 brain images.
    - They are in total 155 healthy brain images. no –> healthy
