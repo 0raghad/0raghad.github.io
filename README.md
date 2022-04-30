@@ -37,4 +37,11 @@
 
       Below is an example of a prediction using the final model
   ![Screenshot (650)](https://user-images.githubusercontent.com/80716758/160552879-764fa9de-5496-447e-b0be-4a50b16c3e71.png)
+  
+  
+  
+# [Customer churn prediction](https://github.com/0raghad/churn)
 
+
+
+# [Toxic Comment Classification](https://github.com/0raghad/toxic_comments)
