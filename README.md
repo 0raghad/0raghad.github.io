@@ -31,7 +31,7 @@
       
 ## Modeling:
 
-      built the model using keras.models.Sequential
+      built the model using Sequential
       
 ## Results:
 
@@ -75,7 +75,24 @@ Tenure            |  Payment method
      
  ![Screenshot (944)](https://user-images.githubusercontent.com/80716758/167205417-ec59c392-8302-478b-b221-c3dc7519e831.png)
   
-   Finally,after ploting the ROC curves of each model with their corresponding Area Under the Curve (AUC). The Area Under the Curve measures the performance of the    model across all possible thresholds for classification. With a higher AUC, a model is capable of better distinguishing between classes
-   XGBoost performs better than the other models.
+   Finally,after ploting the ROC curves of each model with their corresponding Area Under the Curve (AUC). The Area Under the Curve measures the performance of the    model across all possible thresholds for classification. With a higher AUC, a model is capable of better distinguishing between classes.   
+   **XGBoost** performs better than the other models.
       
+    
 # [Toxic Comment Classification](https://github.com/0raghad/toxic_comments)
+ used tools:  python, matplotlib, NumPy, pandas, TensorFlow, gradio
+   ## Goals and Motivation:
+      • Develope an artificial intelligence system that detects different types of toxicity in comments using natural language.
+      • Aim to prevent toxic comments from showing up
+   ## Before building model activates:
+      - sprate the data into target and features
+      - vectorizer using TextVectorization
+      - create TensorFlow dataset pipeline
+      - train test and validation split the data into 10% for testing and 70% for training and 20% for validation
+   ## Modeling:
+      built the model using Sequential
+   ## Results:
+       gradio app 
+   ![Screenshot (945)](https://user-images.githubusercontent.com/80716758/167214889-7cd96f13-d816-4b52-8f2b-b33df2fb3d8e.png)
+
+       *gradio expires in 72 hours 
